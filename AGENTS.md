@@ -1,4 +1,4 @@
-# AGENTS.md for MLGEO2026_UWNETID
+# AGENTS.md for MLGEO2026_CAMDIM
 ## Environment
 - Run all code through `pixi run`; add packages only through pixi.toml.
 - Run `pixi run smoke` before reporting any result.
